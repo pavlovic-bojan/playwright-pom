@@ -9,6 +9,7 @@ Side information: To use the application in a special environment the author acc
 ## Table of Contents
 1. [A list of technologies used within the project](#a-list-of-technologies-used-within-the-project)
 2. [Collaboration](#collaboration)
+3. [How To Cloning and Run Project](#how-to-cloning-and-run-project)
 ### A list of technologies used within the project
 ***
 A list of technologies used within the project:
